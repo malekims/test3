@@ -1,0 +1,134 @@
+.:
+total 12
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:56 .
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:41 ..
+-rw-r--r-- 1 aaa aaa    0 مه     3 18:56 readme
+
+./.git:
+total 60
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 .
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:56 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 branches
+-rw-r--r-- 1 aaa aaa  260 مه     3 18:42 config
+-rw-r--r-- 1 aaa aaa   73 مه     3 18:41 description
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 .git
+-rw-r--r-- 1 aaa aaa    0 مه     3 18:56 ls1
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 .git
+-rw-r--r-- 1 aaa aaa    0 مه     3 18:56 ls1
+-rw-r--r-- 1 aaa aaa   93 مه     3 18:51 FETCH_HEAD
+-rw-r--r-- 1 aaa aaa   23 مه     3 18:42 HEAD
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 hooks
+-rw-r--r-- 1 aaa aaa  104 مه     3 18:52 index
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 info
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 logs
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:41 objects
+-rw-r--r-- 1 aaa aaa   41 مه     3 18:51 ORIG_HEAD
+-rw-r--r-- 1 aaa aaa  107 مه     3 18:42 packed-refs
+drwxr-xr-x 5 aaa aaa 4096 مه     3 18:42 refs
+
+./.git/branches:
+total 8
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 .
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+
+./.git/hooks:
+total 48
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 .
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+-rwxr-xr-x 1 aaa aaa  452 مه     3 18:41 applypatch-msg.sample
+-rwxr-xr-x 1 aaa aaa  896 مه     3 18:41 commit-msg.sample
+-rwxr-xr-x 1 aaa aaa  189 مه     3 18:41 post-update.sample
+-rwxr-xr-x 1 aaa aaa  398 مه     3 18:41 pre-applypatch.sample
+-rwxr-xr-x 1 aaa aaa 1704 مه     3 18:41 pre-commit.sample
+-rwxr-xr-x 1 aaa aaa 1239 مه     3 18:41 prepare-commit-msg.sample
+-rwxr-xr-x 1 aaa aaa 1348 مه     3 18:41 pre-push.sample
+-rwxr-xr-x 1 aaa aaa 4898 مه     3 18:41 pre-rebase.sample
+-rwxr-xr-x 1 aaa aaa 3611 مه     3 18:41 update.sample
+
+./.git/info:
+total 12
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 .
+-rw-r--r-- 1 aaa aaa  240 مه     3 18:41 exclude
+
+./.git/logs:
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+total 16
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+-rw-r--r-- 1 aaa aaa  177 مه     3 18:42 HEAD
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:42 refs
+
+./.git/logs/refs:
+total 16
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 heads
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:42 ..
+-rw-r--r-- 1 aaa aaa  177 مه     3 18:42 master
+
+./.git/logs/refs/remotes:
+total 12
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:42 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 ..
+-rw-r--r-- 1 aaa aaa  177 مه     3 18:42 HEAD
+
+./.git/objects:
+total 16
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:41 .
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 info
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 pack
+
+./.git/objects/info:
+total 8
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 .
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:41 ..
+
+./.git/objects/pack:
+total 16
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 4 aaa aaa 4096 مه     3 18:41 ..
+-r--r--r-- 1 aaa aaa 1156 مه     3 18:42 pack-031f02cee335cb4ad158a5773723c0cb96ab7a81.idx
+-r--r--r-- 1 aaa aaa  299 مه     3 18:42 pack-031f02cee335cb4ad158a5773723c0cb96ab7a81.pack
+
+./.git/refs:
+total 20
+drwxr-xr-x 5 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 8 aaa aaa 4096 مه     3 18:53 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:52 heads
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 remotes
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 tags
+
+./.git/refs/heads:
+total 12
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:52 .
+drwxr-xr-x 5 aaa aaa 4096 مه     3 18:42 ..
+-rw-r--r-- 1 aaa aaa   41 مه     3 18:42 master
+
+./.git/refs/remotes:
+total 12
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 5 aaa aaa 4096 مه     3 18:42 ..
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:42 .
+drwxr-xr-x 3 aaa aaa 4096 مه     3 18:42 ..
+-rw-r--r-- 1 aaa aaa   32 مه     3 18:42 HEAD
+
+./.git/refs/tags:
+total 8
+drwxr-xr-x 2 aaa aaa 4096 مه     3 18:41 .
+drwxr-xr-x 5 aaa aaa 4096 مه     3 18:42 ..
